@@ -29,5 +29,5 @@
 
 **Книги:**
 
-    Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган - глава 8
-    Concurrency in Go: Tools and Techniques for Developers, by Katherine Cox-Buday 
+- Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган - глава 8
+- Concurrency in Go: Tools and Techniques for Developers, by Katherine Cox-Buday 
